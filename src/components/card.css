@@ -7,6 +7,8 @@
     height:40rem;
     background-color:white;
     font-family: 'Kdam Thmor', cursive;
+    transition: all 1s ease-in-out;
+    transform:rotate(0 deg)
     
 }
 body{
@@ -55,5 +57,7 @@ button:hover{
     background-color:white;
     font-family: 'Kdam Thmor', cursive;
     text-align: center;
-    transition: margin-right 2s, color 1s;
+    transition: all 1s ease-in-out;
+    transform: rotate(10deg);
 }
+
