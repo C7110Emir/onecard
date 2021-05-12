@@ -26,6 +26,10 @@ body{
 .text{
     height: 19rem;
     text-align: center;
+    transition: all 1s ease-in-out;
+    transform:rotate(0deg);
+    font-style: italic;
+
     
 }
 
@@ -41,7 +45,7 @@ button{
     border:none;
     color:rgb(19, 182, 236);
     font-size:15px;
-    padding:15px
+    padding:10px
 }
 
 button:hover{
@@ -61,3 +65,10 @@ button:hover{
     transform: rotate(10deg);
 }
 
+.texttrans{
+    height: 19rem;
+    text-align: center;
+    transition: all 1s ease-in-out;
+    transform: rotate(-10deg);
+    font-style: italic;
+}

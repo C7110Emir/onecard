@@ -19,7 +19,7 @@ function Wholedisplay() {
             </div>
         <div className={transition ? "texttrans" : "text"}>
             <h2>Lorem Ipsum</h2>
-            <h4>Laborum minim sunt exercitation exercitation aliquip tempor occaecat labore aliqua elit irure aute pariatur ipsum.Consectetur consequat do mollit non ullamco non amet in.Minim do irure officia exercitation.</h4>
+            <h4>Laborum minim sunt exercitation exercitation aliquip tempor occaecat labore aliqua elit irure aute pariatur ipsum.Consectetur consequat do mollit non ullamco non amet in. Minim do irure officia exercitation.</h4>
             <button>VIEW MORE</button>
             </div>
 
